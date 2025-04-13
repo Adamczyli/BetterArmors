@@ -1,6 +1,6 @@
 # BetterArmors
 
-**BetterArmors** to plugin dla [EXILED](https://github.com/Exiled-Team/EXILED) do SCP: Secret Laboratory, który sprawia, że zbroje (armor) dają dodatkowe HP graczowi, zamiast AHP. Po zdjęciu zbroi HP jest odbierane. Jeśli gracz straci HP poniżej wartości dodanej przez zbroję, ta zostaje automatycznie zniszczona.
+**BetterArmors** to plugin dla [EXILED](https://github.com/Exiled-Team/EXILED) do SCP: Secret Laboratory, który sprawia, że zbroje (armor) dają dodatkowe HP graczowi, po zdjęciu zbroi HP jest odbierane. Jeśli gracz straci HP poniżej wartości dodanej przez zbroję, ta zostaje automatycznie zniszczona.
 
 ---
 
