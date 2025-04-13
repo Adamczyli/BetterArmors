@@ -6,9 +6,9 @@
 
 ## Funkcje
 
-- Dodawanie zwykłego HP po założeniu armoru.
+-  Dodawanie HP po założeniu armoru.
 -  Odbieranie HP po zdjęciu armoru.
--  Automatyczne niszczenie armoru, gdy gracz spadnie poniżej „bonusowego” HP.
+-  Automatyczne niszczenie armoru, gdy gracz spadnie poniżej „dodatkowego” HP.
 
 ---
 
